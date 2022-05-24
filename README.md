@@ -2,6 +2,7 @@
 
 Linguaguem utilizada para o desenvolvimento: JAVA.
 > Status: Concluido ⚠️
+> 
 > Desenvolvido: Saque, Depósito, Transferência e Extrato.
 
 Adquirido os seguintes conhecimentos a partir do mesmo:
