@@ -1,6 +1,6 @@
 <h1>Projeto - BANCO </h1>
 
-Linguaguem utilizada: JAVA.
+Linguaguem utilizada para o desenvolvimento: JAVA.
 > Status: Concluido ⚠️
 > Desenvolvido: Saque, Depósito, Transferência e Extrato.
 
